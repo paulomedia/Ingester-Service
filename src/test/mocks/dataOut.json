@@ -1,0 +1,10 @@
+{
+  "location_codes": {
+    "location_codes_ok": ["ES", "FR"]
+  },
+  "sgce_id": "P711EGS00165026",
+  "init_date": ["04/02/2019"],
+  "internal": 579694,
+  "windows": ["01/03/2019-31/12/2019"],
+  "interval": 15 
+}
