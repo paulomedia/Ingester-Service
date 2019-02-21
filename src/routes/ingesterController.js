@@ -1,5 +1,5 @@
 const Logger   = require('logger'),
-      logger   = rtveLogger.getLogger('ingester-sgdr.ingesterController'), 
+      logger   = Logger.getLogger('ingester-sgdr.ingesterController'), 
       express  = require('express'),
       router   = express.Router(),
       service  = require('../services/ingesterService'),
